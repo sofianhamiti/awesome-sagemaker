@@ -4,7 +4,7 @@
 ## What is SageMaker?
 Amazon SageMaker is a fully managed service to build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools, and workflows.
 
-More info [here](https://aws.amazon.com/sagemaker).
+More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 
 ## Table of Contents
 | <!-- -->                                      | <!-- -->                        |
@@ -17,7 +17,6 @@ More info [here](https://aws.amazon.com/sagemaker).
 
 <a name="getting-started"></a>
 ## Getting Started
-- [Introduction to Amazon SageMaker](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ)
 - [SageMaker Examples](https://sagemaker-examples.readthedocs.io/en/latest/)
 - [Amazon SageMaker 101 Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/0c6b8a23-b837-4e0f-b2e2-4a3ffd7d645b/en-US)
 - [SageMaker Immersion Day (hands-on labs)](https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US)
