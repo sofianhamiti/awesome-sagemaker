@@ -12,8 +12,8 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 | [Getting Started](#getting-started)           | [Free Courses](#free-courses)   |
 | [Core Functionalities](#core-functionalities) | [Community](#community)         |
 | [Machine Learning Domains](#ml-domains)       | [Books](#books)                 |
-| [Advanced Topics](#advanced-topics)           | [Contributions](#contributions) |
-| [Security & Enterprise](#security-enterprise) | -                               |
+| [Advanced Topics](#advanced-topics)           | [News](#news)                   |
+| [Security & Enterprise](#security-enterprise) | [Contributions](#contributions) |
 
 <a name="getting-started"></a>
 ## Getting Started
@@ -108,6 +108,7 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 <a name="community"></a>
 ## Community
 - [Amazon SageMaker Fridays](https://pages.awscloud.com/SageMakerFridays)
+- [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/)
 - [AWS events](https://aws.amazon.com/events/)
 - [AWS re:Post](https://repost.aws/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/amazon-sagemaker)
@@ -116,6 +117,10 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 ## Books
 - [Learn Amazon SageMaker: A guide to building, training, and deploying machine learning models for developers and data scientists, 2nd Edition](https://www.amazon.co.uk/Learn-Amazon-SageMaker-developers-scientists/dp/1801817952/ref=sr_1_1?crid=1BK45HRK8T7SE&keywords=sagemaker&qid=1657373160&sprefix=sagemake%2Caps%2C235&sr=8-1)
 
-<a name="contributions" /></a>
+<a name="news"></a>
+## News
+- [What's New with Machine Learning?](https://aws.amazon.com/about-aws/whats-new/machine-learning/?whats-new-content.sort-by=item.additionalFields.postDateTime&whats-new-content.sort-order=desc&awsf.whats-new-products=general-products%23amazon-sagemaker)
+
+- <a name="contributions" /></a>
 ## Contributions
 Maintainers: [Sofian Hamiti](https://github.com/SofianHamiti)
