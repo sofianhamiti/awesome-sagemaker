@@ -58,14 +58,12 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
     - [Scaling MLOps with resilient pipelines](https://towardsdatascience.com/i-tried-scaling-sagemaker-pipeline-executions-and-this-happened-31279b92821e)
   - Model Registry
     - [Managing your machine learning lifecycle with MLflow and Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/)
-  - Best Practices
-    - [MLOps foundation roadmap for enterprises with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/)
 - **Computer Vision**
   - [Training and deploying models using TensorFlow 2 with the Object Detection API on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/training-and-deploying-models-using-tensorflow-2-with-the-object-detection-api-on-amazon-sagemaker/)
   - [Object detection with Detectron2 on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/object-detection-with-detectron2-on-amazon-sagemaker/)
 - **Natural Language Processing**
   - [Hugging Face on Amazon SageMaker](https://huggingface.co/docs/sagemaker/main)
-- **Auto-ML**
+- **AutoML**
   - [link 1](https://google.fr/)
 - **Low-Code/No-Code**
   - [Amazon SageMaker Canvas - Generate accurate ML Predictions - No Code Required](https://www.youtube.com/watch?v=Sy3GDQT6Lnk)
@@ -94,15 +92,17 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 
 <a name="security-enterprise"></a>
 ## Security & Enterprise
-- **Security**
-  - [Security in Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/security.html)
-  - [Dive deep into Amazon SageMaker Studio Notebooks architecture](https://aws.amazon.com/blogs/machine-learning/dive-deep-into-amazon-sagemaker-studio-notebook-architecture/)
-- **Cost Control & Tracking**
+- **MLOps Foundations**
+  - [MLOps foundation roadmap for enterprises with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/)
 - **ML Platform Setup**
   - [Setting up secure, well-governed machine learning environments on AWS](https://aws.amazon.com/blogs/mt/setting-up-machine-learning-environments-aws/)
   - [Enabling self-service provisioning of Amazon SageMaker Studio resources](https://towardsdatascience.com/enabling-self-service-provisioning-of-amazon-sagemaker-studio-resources-7ac017925016)
   - [Industrializing an ML platform with Amazon SageMaker Studio](https://towardsdatascience.com/industrializing-an-ml-platform-with-amazon-sagemaker-studio-91b597802afe)
   - [Scaling Enterprise ML Platforms with Modern Cloud Operations](https://towardsdatascience.com/scaling-enterprise-mlops-delivery-with-modern-cloud-operations-6888d7218be5)
+- **Security**
+  - [Security in Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/security.html)
+  - [Dive deep into Amazon SageMaker Studio Notebooks architecture](https://aws.amazon.com/blogs/machine-learning/dive-deep-into-amazon-sagemaker-studio-notebook-architecture/)
+- **Cost Control & Tracking**
 
 <a name="free-courses"></a>
 ## Free Courses
