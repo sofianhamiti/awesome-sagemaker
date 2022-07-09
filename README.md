@@ -27,19 +27,20 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 - **Developer Experience**
   - [Onboard Quickly to Amazon SageMaker Studio](https://www.youtube.com/watch?v=wiDHCWVrjCU)
   - [Hosting VS Code on SageMaker](https://towardsdatascience.com/hosting-vs-code-in-sagemaker-studio-f211385e25f7)
+  - [Using RStudio on SageMaker](https://www.rstudio.com/sagemaker/)
 - **Tools/Utilities**
   - [SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/)
   - [Training toolkit](https://github.com/aws/sagemaker-training-toolkit) and [Inference toolkit](https://github.com/aws/sagemaker-inference-toolkit)
   - [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sagemaker.html)
 - **Containers/Frameworks**
-  - [Using pre-built containers (Script Mode)](https://sagemaker.readthedocs.io/en/stable/frameworks/index.html)
+  - [Supported pre-built containers/frameworks (script mode)](https://sagemaker.readthedocs.io/en/stable/frameworks/index.html)
+  - [Using Script Mode with Amazon SageMaker](https://www.youtube.com/watch?v=x94hpOmKtXM)
   - [Using custom training containers](https://github.com/aws/amazon-sagemaker-examples/tree/main/advanced_functionality/custom-training-containers)
 - **Jobs**
   - [SageMaker Processing](https://sagemaker.readthedocs.io/en/stable/amazon_sagemaker_processing.html#amazon-sagemaker-processing)
   - [Local mode](https://github.com/aws-samples/amazon-sagemaker-local-mode)
   - [Debugging with Tensorboard](https://google.fr/)
 - **Inference**
-  - [link 1](https://google.fr/)
   - [Running Triton Inference Server with Amazon SageMaker](https://www.coursera.org/lecture/machine-learning-aws-nvidia/running-triton-inference-server-with-amazon-sagemaker-HwIki)
 
 <a name="ml-domains"></a>
