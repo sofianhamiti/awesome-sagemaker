@@ -15,7 +15,6 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 | [Advanced Topics](#advanced-topics)           | [Contributions](#contributions) |
 | [Security & Enterprise](#security-enterprise) | -                               |
 
-
 <a name="getting-started"></a>
 ## Getting Started
 - [SageMaker Example Notebooks](https://sagemaker-examples.readthedocs.io/en/latest/)
@@ -30,12 +29,12 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
   - [Using RStudio on SageMaker](https://www.rstudio.com/sagemaker/)
 - **Tools/Utilities**
   - [SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/)
-  - [Training toolkit](https://github.com/aws/sagemaker-training-toolkit) and [Inference toolkit](https://github.com/aws/sagemaker-inference-toolkit)
   - [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sagemaker.html)
 - **Containers/Frameworks**
   - [Supported pre-built containers/frameworks (script mode)](https://sagemaker.readthedocs.io/en/stable/frameworks/index.html)
   - [Using Script Mode with Amazon SageMaker](https://www.youtube.com/watch?v=x94hpOmKtXM)
   - [Using custom training containers](https://github.com/aws/amazon-sagemaker-examples/tree/main/advanced_functionality/custom-training-containers)
+  - [Training toolkit](https://github.com/aws/sagemaker-training-toolkit) and [Inference toolkit](https://github.com/aws/sagemaker-inference-toolkit)
 - **Jobs**
   - [SageMaker Processing](https://sagemaker.readthedocs.io/en/stable/amazon_sagemaker_processing.html#amazon-sagemaker-processing)
   - [Local mode](https://github.com/aws-samples/amazon-sagemaker-local-mode)
@@ -54,6 +53,7 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
     - [Building, automating, managing, and scaling ML workflows using Amazon SageMaker Pipelines](https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/)
     - [MLOps with MLFlow and Amazon SageMaker Pipelines](https://towardsdatascience.com/mlops-with-mlflow-and-amazon-sagemaker-pipelines-33e13d43f238)
     - [Scaling MLOps with resilient pipelines](https://towardsdatascience.com/i-tried-scaling-sagemaker-pipeline-executions-and-this-happened-31279b92821e)
+  - Model Registry
   - Best Practices
     - [MLOps foundation roadmap for enterprises with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/)
 - **Computer Vision**
@@ -101,8 +101,8 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 ## Free Courses
 - [Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning)
 - [Practical Data Science on the AWS Cloud Specialization](https://www.coursera.org/specializations/practical-data-science)
-- [Machine Learning University](https://aws.amazon.com/machine-learning/mlu/)
 - [AWS hands-on tutorials](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=category%23machine-learning&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all)
+- [Machine Learning University](https://aws.amazon.com/machine-learning/mlu/)
 
 <a name="community"></a>
 ## Community
