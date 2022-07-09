@@ -13,6 +13,7 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 | [Core Functionalities](#core-functionalities) | [Community](#community)         |
 | [Machine Learning Domains](#ml-domains)       | [Books](#books)                 |
 | [Advanced Topics](#advanced-topics)           | [Contributions](#contributions) |
+| [Security & Enterprise](#security-enterprise) | -                               |
 
 
 <a name="getting-started"></a>
@@ -28,13 +29,14 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
   - [Onboard Quickly to Amazon SageMaker Studio](https://www.youtube.com/watch?v=wiDHCWVrjCU)
   - [Hosting VS Code on SageMaker](https://towardsdatascience.com/hosting-vs-code-in-sagemaker-studio-f211385e25f7)
 - **Containers/Frameworks**
-  - [Using pre-built containers (Script Mode)](https://google.fr/)
+  - [Using pre-built containers (Script Mode)](https://sagemaker.readthedocs.io/en/stable/frameworks/index.html)
   - [Custom training containers](https://github.com/aws/amazon-sagemaker-examples/tree/main/advanced_functionality/custom-training-containers)
 - **Jobs**
+  - [SageMaker Processing](https://sagemaker.readthedocs.io/en/stable/amazon_sagemaker_processing.html#amazon-sagemaker-processing)
   - [Local mode](https://github.com/aws-samples/amazon-sagemaker-local-mode)
 - **Inference**
   - [link 1](https://google.fr/)
-  - [link 2](https://google.fr/)
+  - [Running Triton Inference Server with Amazon SageMaker](https://www.coursera.org/lecture/machine-learning-aws-nvidia/running-triton-inference-server-with-amazon-sagemaker-HwIki)
 - **Tools/Utilities**
   - [SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/)
   - [Training toolkit](https://github.com/aws/sagemaker-training-toolkit) and [Inference toolkit](https://github.com/aws/sagemaker-inference-toolkit)
@@ -42,15 +44,18 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 
 <a name="ml-domains"></a>
 ## Machine Learning domains
+- **Data Labeling**
+  - [Labeling data with Label Studio on SageMaker](https://medium.com/geekculture/labeling-data-with-label-studio-on-sagemaker-e4b2d1b562f7)
 - **MLOps**
+  - [MLOps foundation roadmap for enterprises with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/)
   - [Building, automating, managing, and scaling ML workflows using Amazon SageMaker Pipelines](https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/)
   - [MLOps with MLFlow and Amazon SageMaker Pipelines](https://towardsdatascience.com/mlops-with-mlflow-and-amazon-sagemaker-pipelines-33e13d43f238)
+  - [Scaling MLOps with resilient pipelines](https://towardsdatascience.com/i-tried-scaling-sagemaker-pipeline-executions-and-this-happened-31279b92821e)
 - **Computer Vision**
   - [Training and deploying models using TensorFlow 2 with the Object Detection API on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/training-and-deploying-models-using-tensorflow-2-with-the-object-detection-api-on-amazon-sagemaker/)
   - [Object detection with Detectron2 on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/object-detection-with-detectron2-on-amazon-sagemaker/)
 - **Natural Language Processing**
   - [Hugging Face on Amazon SageMaker](https://huggingface.co/docs/sagemaker/main)
-
 - **Low-Code/No-Code**
   - [Amazon SageMaker Canvas - Generate accurate ML Predictions - No Code Required](https://www.youtube.com/watch?v=Sy3GDQT6Lnk)
   - [Canvas Immersion Day](https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US)
@@ -59,7 +64,7 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 ## Advanced Topics
 - **Large Scale Data Processing**
   - [Using Apache Spark on Amazon EMR with SageMaker](https://www.youtube.com/watch?v=RxRENYQBxZU)
-  - [link 2](https://google.fr/)
+  - [Spark in Processing Jobs](https://sagemaker.readthedocs.io/en/stable/amazon_sagemaker_processing.html#data-processing-with-spark)
 - **Distributed Training**
   - [Choose the best data source for your Amazon SageMaker training job](https://aws.amazon.com/blogs/machine-learning/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/)
   - [link 2](https://google.fr/)
@@ -72,6 +77,13 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 - **Feature Store**
   - [link 1](https://google.fr/)
   - [link 2](https://google.fr/)
+
+<a name="security-enterprise"></a>
+## Security & Enterprise
+- [Setting up secure, well-governed machine learning environments on AWS](https://aws.amazon.com/blogs/mt/setting-up-machine-learning-environments-aws/)
+- [Enabling self-service provisioning of Amazon SageMaker Studio resources](https://towardsdatascience.com/enabling-self-service-provisioning-of-amazon-sagemaker-studio-resources-7ac017925016)
+- [Industrializing an ML platform with Amazon SageMaker Studio](https://towardsdatascience.com/industrializing-an-ml-platform-with-amazon-sagemaker-studio-91b597802afe)
+- [Scaling Enterprise ML Platforms with Modern Cloud Operations](https://towardsdatascience.com/scaling-enterprise-mlops-delivery-with-modern-cloud-operations-6888d7218be5)
 
 <a name="free-courses"></a>
 ## Free Courses
