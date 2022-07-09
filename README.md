@@ -21,7 +21,6 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 - [SageMaker Example Notebooks](https://sagemaker-examples.readthedocs.io/en/latest/)
 - [Amazon SageMaker 101 Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/0c6b8a23-b837-4e0f-b2e2-4a3ffd7d645b/en-US)
 - [SageMaker Immersion Day (hands-on labs)](https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US)
-- [Machine Learning University](https://aws.amazon.com/machine-learning/mlu/)
 
 <a name="core-functionalities"></a>
 ## Core Functionalities
@@ -34,7 +33,7 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
   - [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sagemaker.html)
 - **Containers/Frameworks**
   - [Using pre-built containers (Script Mode)](https://sagemaker.readthedocs.io/en/stable/frameworks/index.html)
-  - [Custom training containers](https://github.com/aws/amazon-sagemaker-examples/tree/main/advanced_functionality/custom-training-containers)
+  - [Using custom training containers](https://github.com/aws/amazon-sagemaker-examples/tree/main/advanced_functionality/custom-training-containers)
 - **Jobs**
   - [SageMaker Processing](https://sagemaker.readthedocs.io/en/stable/amazon_sagemaker_processing.html#amazon-sagemaker-processing)
   - [Local mode](https://github.com/aws-samples/amazon-sagemaker-local-mode)
@@ -101,6 +100,8 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 ## Free Courses
 - [Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning)
 - [Practical Data Science on the AWS Cloud Specialization](https://www.coursera.org/specializations/practical-data-science)
+- [Machine Learning University](https://aws.amazon.com/machine-learning/mlu/)
+- [AWS hands-on tutorials](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=category%23machine-learning&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all)
 
 <a name="community"></a>
 ## Community
