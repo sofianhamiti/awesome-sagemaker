@@ -18,7 +18,7 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 
 <a name="getting-started"></a>
 ## Getting Started
-- [SageMaker Examples](https://sagemaker-examples.readthedocs.io/en/latest/)
+- [SageMaker Example Notebooks](https://sagemaker-examples.readthedocs.io/en/latest/)
 - [Amazon SageMaker 101 Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/0c6b8a23-b837-4e0f-b2e2-4a3ffd7d645b/en-US)
 - [SageMaker Immersion Day (hands-on labs)](https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US)
 - [Machine Learning University](https://aws.amazon.com/machine-learning/mlu/)
@@ -28,6 +28,10 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 - **Developer Experience**
   - [Onboard Quickly to Amazon SageMaker Studio](https://www.youtube.com/watch?v=wiDHCWVrjCU)
   - [Hosting VS Code on SageMaker](https://towardsdatascience.com/hosting-vs-code-in-sagemaker-studio-f211385e25f7)
+- **Tools/Utilities**
+  - [SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/)
+  - [Training toolkit](https://github.com/aws/sagemaker-training-toolkit) and [Inference toolkit](https://github.com/aws/sagemaker-inference-toolkit)
+  - [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sagemaker.html)
 - **Containers/Frameworks**
   - [Using pre-built containers (Script Mode)](https://sagemaker.readthedocs.io/en/stable/frameworks/index.html)
   - [Custom training containers](https://github.com/aws/amazon-sagemaker-examples/tree/main/advanced_functionality/custom-training-containers)
@@ -37,13 +41,9 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 - **Inference**
   - [link 1](https://google.fr/)
   - [Running Triton Inference Server with Amazon SageMaker](https://www.coursera.org/lecture/machine-learning-aws-nvidia/running-triton-inference-server-with-amazon-sagemaker-HwIki)
-- **Tools/Utilities**
-  - [SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/)
-  - [Training toolkit](https://github.com/aws/sagemaker-training-toolkit) and [Inference toolkit](https://github.com/aws/sagemaker-inference-toolkit)
-  - [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sagemaker.html)
 
 <a name="ml-domains"></a>
-## Machine Learning domains
+## Machine Learning Domains
 - **Data Labeling**
   - [Labeling data with Label Studio on SageMaker](https://medium.com/geekculture/labeling-data-with-label-studio-on-sagemaker-e4b2d1b562f7)
 - **MLOps**
