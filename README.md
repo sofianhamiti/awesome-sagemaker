@@ -91,6 +91,8 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 <a name="security-enterprise"></a>
 ## Security & Enterprise
 - **Security**
+  - [Security in Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/security.html)
+  - [Dive deep into Amazon SageMaker Studio Notebooks architecture](https://aws.amazon.com/blogs/machine-learning/dive-deep-into-amazon-sagemaker-studio-notebook-architecture/)
 - **Cost Control & Tracking**
 - **ML Platform Setup**
   - [Setting up secure, well-governed machine learning environments on AWS](https://aws.amazon.com/blogs/mt/setting-up-machine-learning-environments-aws/)
