@@ -12,7 +12,7 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 | [Getting Started](#getting-started)           | [Free Courses](#free-courses)   |
 | [Core Functionalities](#core-functionalities) | [Community](#community)         |
 | [Machine Learning Domains](#ml-domains)       | [Books](#books)                 |
-| [Advanced Topics](#advanced-topics)           | [News](#news)                   |
+| [Advanced Topics](#advanced-topics)           | [What's New](#news)             |
 | [Security & Enterprise](#security-enterprise) | [Contributions](#contributions) |
 
 <a name="getting-started"></a>
@@ -121,6 +121,6 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 ## News
 - [What's New with Machine Learning?](https://aws.amazon.com/about-aws/whats-new/machine-learning/?whats-new-content.sort-by=item.additionalFields.postDateTime&whats-new-content.sort-order=desc&awsf.whats-new-products=general-products%23amazon-sagemaker)
 
-- <a name="contributions" /></a>
+<a name="contributions" /></a>
 ## Contributions
 Maintainers: [Sofian Hamiti](https://github.com/SofianHamiti)
