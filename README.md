@@ -91,7 +91,8 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 <a name="security-enterprise"></a>
 ## Security & Enterprise
 - **Security**
-- **Setting up ML Platforms**
+- **Cost Control & Tracking**
+- **ML Platform Setup**
   - [Setting up secure, well-governed machine learning environments on AWS](https://aws.amazon.com/blogs/mt/setting-up-machine-learning-environments-aws/)
   - [Enabling self-service provisioning of Amazon SageMaker Studio resources](https://towardsdatascience.com/enabling-self-service-provisioning-of-amazon-sagemaker-studio-resources-7ac017925016)
   - [Industrializing an ML platform with Amazon SageMaker Studio](https://towardsdatascience.com/industrializing-an-ml-platform-with-amazon-sagemaker-studio-91b597802afe)
