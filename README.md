@@ -38,6 +38,7 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 - **Jobs**
   - [SageMaker Processing](https://sagemaker.readthedocs.io/en/stable/amazon_sagemaker_processing.html#amazon-sagemaker-processing)
   - [Local mode](https://github.com/aws-samples/amazon-sagemaker-local-mode)
+  - [Debugging with Tensorboard](https://google.fr/)
 - **Inference**
   - [link 1](https://google.fr/)
   - [Running Triton Inference Server with Amazon SageMaker](https://www.coursera.org/lecture/machine-learning-aws-nvidia/running-triton-inference-server-with-amazon-sagemaker-HwIki)
@@ -69,6 +70,9 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
   - [Choose the best data source for your Amazon SageMaker training job](https://aws.amazon.com/blogs/machine-learning/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/)
   - [link 2](https://google.fr/)
 - **Hardware Acceleration**
+  - [link 1](https://google.fr/)
+  - [link 2](https://google.fr/)
+- **Model Monitoring & Bias Detection**
   - [link 1](https://google.fr/)
   - [link 2](https://google.fr/)
 - **Edge Deployments**
