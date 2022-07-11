@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://aws.amazon.com/sagemaker/">
-  <img src="img/awesome-sagemaker-intro.png" alt="SageMaker"></a>
+  <img width="250" height="250"  src="img/awesome-sagemaker-intro.svg" alt="SageMaker"></a>
 </div>
 <h1 align="center">
 	Awesome SageMaker
@@ -11,9 +11,9 @@
   </a>
 </div>
 
-> A curated list of references for Amazon SageMaker. Amazon SageMaker is a fully managed service to build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools, and workflows.
+> A curated list of awesome references for Amazon SageMaker.
 
-## Table of Contents
+## Contents
 | <!-- -->                                      | <!-- -->                        |
 |-----------------------------------------------|---------------------------------|
 | [Getting Started](#getting-started)           | [Free Courses](#free-courses)   |
