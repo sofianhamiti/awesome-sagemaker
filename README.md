@@ -3,7 +3,7 @@
   <img width="250" height="250"  src="img/awesome-sagemaker-intro.svg" alt="SageMaker"></a>
 </div>
 <h1 align="center">
-	Awesome SageMaker
+	AWSome SageMaker
 </h1>
 <div align="center">
   <a href="https://github.com/sindresorhus/awesome">
@@ -27,6 +27,7 @@
 
 <a name="getting-started"></a>
 ## Getting Started
+- [Introduction to Amazon SageMaker](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ)
 - [SageMaker Example Notebooks](https://sagemaker-examples.readthedocs.io/en/latest/)
 - [Amazon SageMaker 101 Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/0c6b8a23-b837-4e0f-b2e2-4a3ffd7d645b/en-US)
 - [SageMaker Immersion Day (hands-on labs)](https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US)
@@ -34,7 +35,6 @@
 <a name="core-functionalities"></a>
 ## Core Functionalities
 - ### Developer Experience
-  - [Introduction to Amazon SageMaker](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ)
   - [Onboard Quickly to Amazon SageMaker Studio](https://www.youtube.com/watch?v=wiDHCWVrjCU)
   - [Hosting VS Code on SageMaker](https://towardsdatascience.com/hosting-vs-code-in-sagemaker-studio-f211385e25f7)
   - [Using RStudio on SageMaker](https://www.rstudio.com/sagemaker/)
@@ -144,4 +144,5 @@
 
 <a name="contributions" /></a>
 ## Contributions
-Your contributions are always welcome! Please take a look at the [contribution guidelines](contributing.md) first.
+Maintainers 
+- [Sofian Hamiti](https://github.com/SofianHamiti)
