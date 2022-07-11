@@ -14,13 +14,16 @@
 > A curated list of awesome references for Amazon SageMaker.
 
 ## Contents
-| <!-- -->                                      | <!-- -->                        |
-|-----------------------------------------------|---------------------------------|
-| [Getting Started](#getting-started)           | [Free Courses](#free-courses)   |
-| [Core Functionalities](#core-functionalities) | [Community](#community)         |
-| [Machine Learning Domains](#ml-domains)       | [Books](#books)                 |
-| [Advanced Topics](#advanced-topics)           | [What's New](#news)             |
-| [Security & Enterprise](#security-enterprise) | [Contributions](#contributions) |
+- [Getting Started](#getting-started) 
+- [Core Functionalities](#core-functionalities)
+- [Machine Learning Domains](#ml-domains)
+- [Advanced Topics](#advanced-topics) 
+- [Security & Enterprise](#security-enterprise)
+- [Free Courses](#free-courses)  
+- [Community](#community)  
+- [Books](#books) 
+- [What's New](#news) 
+- [Contributions](#contributions)
 
 <a name="getting-started"></a>
 ## Getting Started
