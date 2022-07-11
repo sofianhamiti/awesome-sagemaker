@@ -1,10 +1,17 @@
-# Awesome SageMaker [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![SageMaker](awesome-sagemaker-intro.png)
+<div style="text-align:center">
+  <a href="https://aws.amazon.com/sagemaker/">
+  <img width="250" height="250" src="img/awesome-sagemaker-intro.png" alt="SageMaker"></a>
+</div>
+<h1 style="text-align:center">
+	Awesome SageMaker
+</h1>
+<div style="text-align:center">
+  <a href="https://github.com/sindresorhus/awesome">
+  <img src="https://awesome.re/badge.svg" alt="Awesome">
+  </a>
+</div>
 
-## What is SageMaker?
-Amazon SageMaker is a fully managed service to build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools, and workflows.
-
-More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
+> A curated list of references for Amazon SageMaker. Amazon SageMaker is a fully managed service to build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools, and workflows.
 
 ## Table of Contents
 | <!-- -->                                      | <!-- -->                        |
@@ -24,6 +31,7 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 <a name="core-functionalities"></a>
 ## Core Functionalities
 - ### Developer Experience
+  - [Introduction to Amazon SageMaker](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ)
   - [Onboard Quickly to Amazon SageMaker Studio](https://www.youtube.com/watch?v=wiDHCWVrjCU)
   - [Hosting VS Code on SageMaker](https://towardsdatascience.com/hosting-vs-code-in-sagemaker-studio-f211385e25f7)
   - [Using RStudio on SageMaker](https://www.rstudio.com/sagemaker/)
@@ -133,4 +141,4 @@ More info [here](https://www.youtube.com/watch?v=Qv_Tr_BCFCQ).
 
 <a name="contributions" /></a>
 ## Contributions
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](contributing.md) first.
