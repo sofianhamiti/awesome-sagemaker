@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://aws.amazon.com/sagemaker/">
-  <img width="250" height="250" src="img/awesome-sagemaker-intro.png" alt="SageMaker"></a>
+  <img src="img/awesome-sagemaker-intro.png" alt="SageMaker"></a>
 </div>
 <h1 align="center">
 	Awesome SageMaker
