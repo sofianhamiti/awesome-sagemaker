@@ -4,10 +4,12 @@
 </div>
 <h1 align="center">
 	Awesome SageMaker
-    <a href="https://github.com/sindresorhus/awesome">
-    <img src="https://awesome.re/badge.svg" alt="Awesome">
-    </a>
 </h1>
+<div align="center">
+  <a href="https://github.com/sindresorhus/awesome">
+  <img src="https://awesome.re/badge.svg" alt="Awesome">
+  </a>
+</div>
 
 > A curated list of awesome references for Amazon SageMaker.
 
