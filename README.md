@@ -1,11 +1,11 @@
-<div style="text-align:center">
+<div align="center">
   <a href="https://aws.amazon.com/sagemaker/">
   <img width="250" height="250" src="img/awesome-sagemaker-intro.png" alt="SageMaker"></a>
 </div>
-<h1 style="text-align:center">
+<h1 align="center">
 	Awesome SageMaker
 </h1>
-<div style="text-align:center">
+<div align="center">
   <a href="https://github.com/sindresorhus/awesome">
   <img src="https://awesome.re/badge.svg" alt="Awesome">
   </a>
