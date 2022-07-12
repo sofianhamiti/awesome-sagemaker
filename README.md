@@ -17,7 +17,7 @@
 - [Getting Started](#getting-started) 
 - [Core Functionalities](#core-functionalities)
 - [ML Domains](#machine-learning-domains)
-- [ML Lifecycle](#machine-learning-lifecycle)
+- [MLOps](#mlops)
 - [Advanced Topics](#advanced-topics)
 - [Enterprise & Architecture](#enterprise-architecture)
 - [Training & Certification](#training-certification)  
@@ -66,18 +66,21 @@
 - ### Natural Language Processing
   - [Hugging Face on Amazon SageMaker](https://huggingface.co/docs/sagemaker/main)
   - [Hugging Face on Amazon SageMaker Tutorial - Part 1](https://www.youtube.com/watch?v=80ix-IyNnQI), [Part 2](https://www.youtube.com/watch?v=BqQ14SZ5tos), [Part 3](https://www.youtube.com/watch?v=oVIvXfeunv8) 
-- ### AutoML
-  - [Using AutoML to create high-quality models with just a few clicks](https://www.youtube.com/watch?v=f9aCwmVWvC8)
-  - [Using AutoML for Common Financial Services Use Cases](https://www.youtube.com/watch?v=r2-VmuUh7jM)
-- ### Low-Code/No-Code
-  - [Amazon SageMaker Canvas - Generate accurate ML Predictions - No Code Required](https://www.youtube.com/watch?v=Sy3GDQT6Lnk)
-  - [Canvas Immersion Day](https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US)
-
-<a name="machine-learning-lifecycle"></a>
-## ML Lifecycle
 - ### Data Labeling
   - [Introducing Amazon SageMaker Ground Truth Plus](https://www.youtube.com/watch?v=Y3Lo63yiqsU)
   - [Labeling data with Label Studio on SageMaker](https://medium.com/geekculture/labeling-data-with-label-studio-on-sagemaker-e4b2d1b562f7)
+- ### AutoML
+  - [Using AutoML to create high-quality models with just a few clicks](https://www.youtube.com/watch?v=f9aCwmVWvC8)
+  - [Using AutoML for Common Financial Services Use Cases](https://www.youtube.com/watch?v=r2-VmuUh7jM)
+- ### Model Monitoring
+- ### Explainability & Bias Detection
+  - [Build trustworthy ML detection and monitor bias in ML models](https://www.youtube.com/watch?v=6BZropfX6hA)
+- ### Low-Code/No-Code
+  - [Introduction to Amazon SageMaker Canvas](https://www.youtube.com/watch?v=Sy3GDQT6Lnk)
+  - [Canvas Immersion Day](https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US)
+
+<a name="mlops"></a>
+## MLOps
 - ### MLOps Foundations
   - [MLOps foundation roadmap for enterprises with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/)
   - [Implementing MLOps practices with Amazon SageMaker, featuring Vanguard](https://www.youtube.com/watch?v=fuXUi_hoK78)
@@ -91,9 +94,6 @@
   - [Scaling MLOps with resilient pipelines](https://towardsdatascience.com/i-tried-scaling-sagemaker-pipeline-executions-and-this-happened-31279b92821e)
 - ### Model Registry
   - [Managing your machine learning lifecycle with MLflow and Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/)
-- ### Model Monitoring
-- ### Explainability & Bias Detection
-  - [Build trustworthy ML detection and monitor bias in ML models](https://www.youtube.com/watch?v=6BZropfX6hA)
 
 <a name="advanced-topics"></a>
 ## Advanced Topics
