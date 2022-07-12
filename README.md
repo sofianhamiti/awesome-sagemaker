@@ -16,10 +16,11 @@
 ## Contents
 - [Getting Started](#getting-started) 
 - [Core Functionalities](#core-functionalities)
-- [Machine Learning Domains](#ml-domains)
-- [Advanced Topics](#advanced-topics) 
+- [ML Domains](#machine-learning-domains)
+- [ML Lifecycle](#machine-learning-lifecycle)
+- [Advanced Topics](#advanced-topics)
 - [Security & Enterprise](#security-enterprise)
-- [Free Courses](#free-courses)  
+- [Training & Certification](#training-certification)  
 - [Community](#community)  
 - [Books](#books) 
 - [What's New](#news) 
@@ -56,13 +57,13 @@
 - ### Inference
   - [Running Triton Inference Server with Amazon SageMaker](https://www.coursera.org/lecture/machine-learning-aws-nvidia/running-triton-inference-server-with-amazon-sagemaker-HwIki)
 
-<a name="ml-domains"></a>
-## Machine Learning Domains
+<a name="machine-learning-domains"></a>
+## ML Domains
 - ### Data Labeling
   - [Introducing Amazon SageMaker Ground Truth Plus](https://www.youtube.com/watch?v=Y3Lo63yiqsU)
   - [Labeling data with Label Studio on SageMaker](https://medium.com/geekculture/labeling-data-with-label-studio-on-sagemaker-e4b2d1b562f7)
 - ### MLOps
-  - SageMaker Pipelines
+  - #### SageMaker Pipelines
     - [Automate MLOps with SageMaker Projects](https://www.youtube.com/watch?v=3_cHnk9VSfQ)
     - [Introducing Amazon SageMaker Pipelines](https://www.youtube.com/watch?v=Hvz2GGU3Z8g)
     - [Building, automating, managing, and scaling ML workflows using Amazon SageMaker Pipelines](https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/)
@@ -70,18 +71,47 @@
     - [Build MLOps workflows with Amazon SageMaker projects, GitLab, and GitLab pipelines](https://aws.amazon.com/blogs/machine-learning/build-mlops-workflows-with-amazon-sagemaker-projects-gitlab-and-gitlab-pipelines/)
     - [MLOps with MLFlow and Amazon SageMaker Pipelines](https://towardsdatascience.com/mlops-with-mlflow-and-amazon-sagemaker-pipelines-33e13d43f238)
     - [Scaling MLOps with resilient pipelines](https://towardsdatascience.com/i-tried-scaling-sagemaker-pipeline-executions-and-this-happened-31279b92821e)
-  - Model Registry
+  - #### Model Registry
     - [Managing your machine learning lifecycle with MLflow and Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/)
+  - #### MLOps Foundations
+    - [MLOps foundation roadmap for enterprises with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/)
 - ### Computer Vision
-  - [Training and deploying models using TensorFlow 2 with the Object Detection API on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/training-and-deploying-models-using-tensorflow-2-with-the-object-detection-api-on-amazon-sagemaker/)
+  - [Using the TensorFlow 2 Object Detection API with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/training-and-deploying-models-using-tensorflow-2-with-the-object-detection-api-on-amazon-sagemaker/)
   - [Object detection with Detectron2 on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/object-detection-with-detectron2-on-amazon-sagemaker/)
 - ### Natural Language Processing
   - [Hugging Face on Amazon SageMaker](https://huggingface.co/docs/sagemaker/main)
+  - [Hugging Face on Amazon SageMaker Tutorial - Part 1](https://www.youtube.com/watch?v=80ix-IyNnQI), [Part 2](https://www.youtube.com/watch?v=BqQ14SZ5tos), [Part 3](https://www.youtube.com/watch?v=oVIvXfeunv8) 
 - ### AutoML
-  - [link 1](https://google.fr/)
+  - [Using AutoML to create high-quality models with just a few clicks](https://www.youtube.com/watch?v=f9aCwmVWvC8)
+  - [Using AutoML for Common Financial Services Use Cases](https://www.youtube.com/watch?v=r2-VmuUh7jM)
 - ### Low-Code/No-Code
   - [Amazon SageMaker Canvas - Generate accurate ML Predictions - No Code Required](https://www.youtube.com/watch?v=Sy3GDQT6Lnk)
   - [Canvas Immersion Day](https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US)
+- ### Model Monitoring & Bias Detection
+
+
+<a name="machine-learning-lifecycle"></a>
+## ML Lifecycle
+- ### Data Labeling
+  - [Introducing Amazon SageMaker Ground Truth Plus](https://www.youtube.com/watch?v=Y3Lo63yiqsU)
+  - [Labeling data with Label Studio on SageMaker](https://medium.com/geekculture/labeling-data-with-label-studio-on-sagemaker-e4b2d1b562f7)
+- ### MLOps Foundations
+  - [MLOps foundation roadmap for enterprises with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/)
+  - [Implementing MLOps practices with Amazon SageMaker, featuring Vanguard](https://www.youtube.com/watch?v=fuXUi_hoK78)
+- ### SageMaker Pipelines
+  - [Automate MLOps with SageMaker Projects](https://www.youtube.com/watch?v=3_cHnk9VSfQ)
+  - [Introducing Amazon SageMaker Pipelines](https://www.youtube.com/watch?v=Hvz2GGU3Z8g)
+  - [Building, automating, managing, and scaling ML workflows using Amazon SageMaker Pipelines](https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/)
+  - [Create Amazon SageMaker projects using third-party source control and Jenkins](https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-projects-using-third-party-source-control-and-jenkins/)
+  - [Build MLOps workflows with Amazon SageMaker projects, GitLab, and GitLab pipelines](https://aws.amazon.com/blogs/machine-learning/build-mlops-workflows-with-amazon-sagemaker-projects-gitlab-and-gitlab-pipelines/)
+  - [MLOps with MLFlow and Amazon SageMaker Pipelines](https://towardsdatascience.com/mlops-with-mlflow-and-amazon-sagemaker-pipelines-33e13d43f238)
+  - [Scaling MLOps with resilient pipelines](https://towardsdatascience.com/i-tried-scaling-sagemaker-pipeline-executions-and-this-happened-31279b92821e)
+- ### Model Registry
+  - [Managing your machine learning lifecycle with MLflow and Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/)
+- ### Model Monitoring
+- ### Explainability & Bias Detection
+  - [Build trustworthy ML detection and monitor bias in ML models](https://www.youtube.com/watch?v=6BZropfX6hA)
+
 
 <a name="advanced-topics"></a>
 ## Advanced Topics
@@ -90,46 +120,46 @@
   - [Spark in Processing Jobs](https://sagemaker.readthedocs.io/en/stable/amazon_sagemaker_processing.html#data-processing-with-spark)
 - ### Distributed Training
   - [Choose the best data source for your Amazon SageMaker training job](https://aws.amazon.com/blogs/machine-learning/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/)
-  - [Scalable Medical Computer Vision Model Training with Amazon SageMaker Part 1](https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-1/)
-  - [Scalable Medical Computer Vision Model Training with Amazon SageMaker Part 2](https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-2/?trk=global_employee_advocacy&sc_channel=sm&advocacy_source=everyonesocial&es_id=ffc7baefb3)
+  - [Scalable Medical Computer Vision Model Training - Part 1](https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-1/) and [Part 2](https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-2)
 - ### Hardware Acceleration
-  - [link 1](https://google.fr/)
-  - [link 2](https://google.fr/)
-- ### Model Monitoring & Bias Detection
-  - [link 1](https://google.fr/)
-  - [link 2](https://google.fr/)
 - ### Edge Deployments
-  - [link 1](https://google.fr/)
-  - [link 2](https://google.fr/)
+  - [Industrial defect detection with computer vision using Amazon SageMaker ](https://www.youtube.com/watch?v=v6OHL3LTjkA)
+  - [ML@Edge with SageMaker Edge Manager](https://github.com/aws-samples/amazon-sagemaker-edge-manager-workshop)
 - ### Feature Store
-  - [link 1](https://google.fr/)
-  - [link 2](https://google.fr/)
+
 
 <a name="security-enterprise"></a>
 ## Security & Enterprise
-- ### MLOps Foundations
-  - [MLOps foundation roadmap for enterprises with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/)
 - ### ML Platform Setup
   - [Setting up secure, well-governed machine learning environments on AWS](https://aws.amazon.com/blogs/mt/setting-up-machine-learning-environments-aws/)
   - [Enabling self-service provisioning of Amazon SageMaker Studio resources](https://towardsdatascience.com/enabling-self-service-provisioning-of-amazon-sagemaker-studio-resources-7ac017925016)
   - [Industrializing an ML platform with Amazon SageMaker Studio](https://towardsdatascience.com/industrializing-an-ml-platform-with-amazon-sagemaker-studio-91b597802afe)
   - [Scaling Enterprise ML Platforms with Modern Cloud Operations](https://towardsdatascience.com/scaling-enterprise-mlops-delivery-with-modern-cloud-operations-6888d7218be5)
+  - [AccessSageMaker Studio via an external identity provider](https://www.youtube.com/watch?v=9CnFrSqvXYM)
 - ### Security
   - [Security in Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/security.html)
   - [Dive deep into Amazon SageMaker Studio Notebooks architecture](https://aws.amazon.com/blogs/machine-learning/dive-deep-into-amazon-sagemaker-studio-notebook-architecture/)
 - ### Cost Control & Tracking
 
-<a name="free-courses"></a>
-## Free Courses
-- [Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning)
-- [Practical Data Science on the AWS Cloud Specialization](https://www.coursera.org/specializations/practical-data-science)
-- [AWS hands-on tutorials](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=category%23machine-learning&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all)
-- [Machine Learning University](https://aws.amazon.com/machine-learning/mlu/)
+<a name="training-certification"></a>
+## Training & Certification
+- ### MOOCs
+  - [Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning)
+  - [Practical Data Science on the AWS Cloud Specialization](https://www.coursera.org/specializations/practical-data-science)
+  - [Machine Learning University](https://aws.amazon.com/machine-learning/mlu/)
+- ### Digital & Classroom
+  - [AWS Certified Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
+  - [Machine Learning Learning Plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/28/machine-learning-learning-plan)
+  - [AWS Classroom Training](https://aws.amazon.com/training/classroom/?nc2=sb_tr_ct)
+- ### Tutorials
+  - [AWS hands-on tutorials](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=category%23machine-learning&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all)
+
 
 <a name="community"></a>
 ## Community
 - [Amazon SageMaker Fridays](https://pages.awscloud.com/SageMakerFridays)
 - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/)
+- [AWS ML School](https://mlschool.splashthat.com/?sc_channel=sm&sc_campaign=Machine_Learning&sc_publisher=LINKEDIN&sc_geo=GLOBAL&sc_outcome=awareness&trk=machine_learning)
 - [AWS events](https://aws.amazon.com/events/)
 - [AWS re:Post](https://repost.aws/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/amazon-sagemaker)
