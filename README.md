@@ -19,7 +19,7 @@
 - [ML Domains](#machine-learning-domains)
 - [ML Lifecycle](#machine-learning-lifecycle)
 - [Advanced Topics](#advanced-topics)
-- [Security & Enterprise](#security-enterprise)
+- [Enterprise & Architecture](#enterprise-architecture)
 - [Training & Certification](#training-certification)  
 - [Community](#community)  
 - [Books](#books) 
@@ -32,6 +32,7 @@
 - [SageMaker Example Notebooks](https://sagemaker-examples.readthedocs.io/en/latest/)
 - [Amazon SageMaker 101 Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/0c6b8a23-b837-4e0f-b2e2-4a3ffd7d645b/en-US)
 - [SageMaker Immersion Day (hands-on labs)](https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US)
+- [Develop, Train, Optimize and Deploy Scikit-Learn Random Forest](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-python-sdk/scikit_learn_randomforest/Sklearn_on_SageMaker_end2end.ipynb)
 
 <a name="core-functionalities"></a>
 ## Core Functionalities
@@ -125,11 +126,15 @@
 - ### Edge Deployments
   - [Industrial defect detection with computer vision using Amazon SageMaker ](https://www.youtube.com/watch?v=v6OHL3LTjkA)
   - [ML@Edge with SageMaker Edge Manager](https://github.com/aws-samples/amazon-sagemaker-edge-manager-workshop)
+  - [Using Amazon SageMaker Edge Manager and AWS IoT Greengrass V2](https://aws.amazon.com/blogs/machine-learning/build-machine-learning-at-the-edge-applications-using-amazon-sagemaker-edge-manager-and-aws-iot-greengrass-v2/)
 - ### Feature Store
 
 
 <a name="security-enterprise"></a>
-## Security & Enterprise
+## Enterprise & Architecture
+- ### Architecture Best Practices
+  - [Architecture Best Practices for Machine Learning](https://aws.amazon.com/architecture/machine-learning/)
+  - [AWS Well-Architected Machine Learning Lens](https://aws.amazon.com/blogs/architecture/introducing-the-new-aws-well-architected-machine-learning-lens/)
 - ### ML Platform Setup
   - [Setting up secure, well-governed machine learning environments on AWS](https://aws.amazon.com/blogs/mt/setting-up-machine-learning-environments-aws/)
   - [Enabling self-service provisioning of Amazon SageMaker Studio resources](https://towardsdatascience.com/enabling-self-service-provisioning-of-amazon-sagemaker-studio-resources-7ac017925016)
