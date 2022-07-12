@@ -130,7 +130,7 @@
 - ### Feature Store
 
 
-<a name="security-enterprise"></a>
+<a name="enterprise-architecture"></a>
 ## Enterprise & Architecture
 - ### Architecture Best Practices
   - [Architecture Best Practices for Machine Learning](https://aws.amazon.com/architecture/machine-learning/)
