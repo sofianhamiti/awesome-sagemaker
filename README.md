@@ -60,22 +60,6 @@
 
 <a name="machine-learning-domains"></a>
 ## ML Domains
-- ### Data Labeling
-  - [Introducing Amazon SageMaker Ground Truth Plus](https://www.youtube.com/watch?v=Y3Lo63yiqsU)
-  - [Labeling data with Label Studio on SageMaker](https://medium.com/geekculture/labeling-data-with-label-studio-on-sagemaker-e4b2d1b562f7)
-- ### MLOps
-  - #### SageMaker Pipelines
-    - [Automate MLOps with SageMaker Projects](https://www.youtube.com/watch?v=3_cHnk9VSfQ)
-    - [Introducing Amazon SageMaker Pipelines](https://www.youtube.com/watch?v=Hvz2GGU3Z8g)
-    - [Building, automating, managing, and scaling ML workflows using Amazon SageMaker Pipelines](https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/)
-    - [Create Amazon SageMaker projects using third-party source control and Jenkins](https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-projects-using-third-party-source-control-and-jenkins/)
-    - [Build MLOps workflows with Amazon SageMaker projects, GitLab, and GitLab pipelines](https://aws.amazon.com/blogs/machine-learning/build-mlops-workflows-with-amazon-sagemaker-projects-gitlab-and-gitlab-pipelines/)
-    - [MLOps with MLFlow and Amazon SageMaker Pipelines](https://towardsdatascience.com/mlops-with-mlflow-and-amazon-sagemaker-pipelines-33e13d43f238)
-    - [Scaling MLOps with resilient pipelines](https://towardsdatascience.com/i-tried-scaling-sagemaker-pipeline-executions-and-this-happened-31279b92821e)
-  - #### Model Registry
-    - [Managing your machine learning lifecycle with MLflow and Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/)
-  - #### MLOps Foundations
-    - [MLOps foundation roadmap for enterprises with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/)
 - ### Computer Vision
   - [Using the TensorFlow 2 Object Detection API with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/training-and-deploying-models-using-tensorflow-2-with-the-object-detection-api-on-amazon-sagemaker/)
   - [Object detection with Detectron2 on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/object-detection-with-detectron2-on-amazon-sagemaker/)
@@ -88,8 +72,6 @@
 - ### Low-Code/No-Code
   - [Amazon SageMaker Canvas - Generate accurate ML Predictions - No Code Required](https://www.youtube.com/watch?v=Sy3GDQT6Lnk)
   - [Canvas Immersion Day](https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US)
-- ### Model Monitoring & Bias Detection
-
 
 <a name="machine-learning-lifecycle"></a>
 ## ML Lifecycle
@@ -113,7 +95,6 @@
 - ### Explainability & Bias Detection
   - [Build trustworthy ML detection and monitor bias in ML models](https://www.youtube.com/watch?v=6BZropfX6hA)
 
-
 <a name="advanced-topics"></a>
 ## Advanced Topics
 - ### Large Scale Data Processing
@@ -129,7 +110,6 @@
   - [Using Amazon SageMaker Edge Manager and AWS IoT Greengrass V2](https://aws.amazon.com/blogs/machine-learning/build-machine-learning-at-the-edge-applications-using-amazon-sagemaker-edge-manager-and-aws-iot-greengrass-v2/)
 - ### Feature Store
 
-
 <a name="enterprise-architecture"></a>
 ## Enterprise & Architecture
 - ### Architecture Best Practices
@@ -144,7 +124,6 @@
 - ### Security
   - [Security in Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/security.html)
   - [Dive deep into Amazon SageMaker Studio Notebooks architecture](https://aws.amazon.com/blogs/machine-learning/dive-deep-into-amazon-sagemaker-studio-notebook-architecture/)
-- ### Cost Control & Tracking
 
 <a name="training-certification"></a>
 ## Training & Certification
@@ -158,7 +137,6 @@
   - [AWS Classroom Training](https://aws.amazon.com/training/classroom/?nc2=sb_tr_ct)
 - ### Tutorials
   - [AWS hands-on tutorials](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=category%23machine-learning&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all)
-
 
 <a name="community"></a>
 ## Community
