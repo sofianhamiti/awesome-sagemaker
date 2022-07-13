@@ -90,7 +90,7 @@
   - [Automate MLOps with SageMaker Projects](https://www.youtube.com/watch?v=3_cHnk9VSfQ)
   - [Introducing Amazon SageMaker Pipelines](https://www.youtube.com/watch?v=Hvz2GGU3Z8g)
   - [Building, automating, managing, and scaling ML workflows using Amazon SageMaker Pipelines](https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/)
--  ### Third-Party
+- ### Third-Party
   - [Create Amazon SageMaker projects using third-party source control and Jenkins](https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-projects-using-third-party-source-control-and-jenkins/)
   - [Build MLOps workflows with Amazon SageMaker projects, GitLab, and GitLab pipelines](https://aws.amazon.com/blogs/machine-learning/build-mlops-workflows-with-amazon-sagemaker-projects-gitlab-and-gitlab-pipelines/)
   - [MLOps with MLFlow and Amazon SageMaker Pipelines](https://towardsdatascience.com/mlops-with-mlflow-and-amazon-sagemaker-pipelines-33e13d43f238)
@@ -119,6 +119,7 @@
 - ### Debugging
   - [Use TensorBoard in Amazon SageMaker Studio](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-tensorboard.html)
   - [Visualize Amazon SageMaker Training Jobs with TensorBoard](https://sagemaker-examples.readthedocs.io/en/latest/sagemaker-python-sdk/tensorboard_keras/tensorboard_keras.html)
+  - [Deep Dive on Amazon SageMaker Debugger & Amazon SageMaker Model Monitor](https://www.youtube.com/watch?v=0zqoeZxakOI) 
 
 <a name="enterprise-architecture"></a>
 ## Enterprise & Architecture
@@ -154,6 +155,8 @@
 
 <a name="community"></a>
 ## Community
+- [DataScienceOnAWS](https://www.youtube.com/channel/UCvlZKtekcKkBUuz8f9dhobw/featured)
+- [Data Science on AWS GitHub](https://github.com/data-science-on-aws/data-science-on-aws)
 - [Amazon SageMaker Fridays](https://pages.awscloud.com/SageMakerFridays)
 - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/)
 - [AWS ML School](https://mlschool.splashthat.com/?sc_channel=sm&sc_campaign=Machine_Learning&sc_publisher=LINKEDIN&sc_geo=GLOBAL&sc_outcome=awareness&trk=machine_learning)
@@ -163,11 +166,12 @@
 
 <a name="books"></a>
 ## Books
-- [Learn Amazon SageMaker: A guide to building, training, and deploying machine learning models for developers and data scientists, 2nd Edition](https://www.amazon.co.uk/Learn-Amazon-SageMaker-developers-scientists/dp/1801817952/ref=sr_1_1?crid=1BK45HRK8T7SE&keywords=sagemaker&qid=1657373160&sprefix=sagemake%2Caps%2C235&sr=8-1)
+- [Learn Amazon SageMaker - Second Edition](https://www.packtpub.com/product/learn-amazon-sagemaker-second-edition/9781801817950)
+- [Data Science on AWS](https://www.oreilly.com/library/view/data-science-on/9781492079385/)
 
 <a name="news"></a>
 ## News
-- [What's New with Machine Learning?](https://aws.amazon.com/about-aws/whats-new/machine-learning/?whats-new-content.sort-by=item.additionalFields.postDateTime&whats-new-content.sort-order=desc&awsf.whats-new-products=general-products%23amazon-sagemaker)
+- [What's New with Machine Learning on AWS?](https://aws.amazon.com/about-aws/whats-new/machine-learning/?whats-new-content.sort-by=item.additionalFields.postDateTime&whats-new-content.sort-order=desc&awsf.whats-new-products=general-products%23amazon-sagemaker)
 
 <a name="contributions" /></a>
 ## Contributions
