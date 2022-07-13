@@ -40,6 +40,7 @@
   - [Hosting VS Code on SageMaker](https://towardsdatascience.com/hosting-vs-code-in-sagemaker-studio-f211385e25f7)
   - [Using RStudio on SageMaker](https://www.rstudio.com/sagemaker/)
 - ### SDKs & Infrastructure-as-Code
+  - [AWS CLI SageMaker](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/index.html)
   - [SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/)
   - [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sagemaker.html)
   - [CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/AWS_SageMaker.html)
@@ -47,6 +48,8 @@
   - [Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/sagemaker_domain)
 - ### Containers & Frameworks
   - [Supported pre-built containers/frameworks (script mode)](https://sagemaker.readthedocs.io/en/stable/frameworks/index.html)
+  - [Deep Learning Containers](https://github.com/aws/deep-learning-containers/blob/master/available_images.md)
+  - [Spark Containers](https://github.com/aws/sagemaker-spark-container/blob/master/available_images.md)
   - [Using Script Mode with Amazon SageMaker](https://www.youtube.com/watch?v=x94hpOmKtXM)
   - [Using custom training containers](https://github.com/aws/amazon-sagemaker-examples/tree/main/advanced_functionality/custom-training-containers)
   - [Training toolkit](https://github.com/aws/sagemaker-training-toolkit) and [Inference toolkit](https://github.com/aws/sagemaker-inference-toolkit)
@@ -86,6 +89,7 @@
 - ### MLOps Foundations
   - [MLOps foundation roadmap for enterprises with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/)
   - [Implementing MLOps practices with Amazon SageMaker, featuring Vanguard](https://www.youtube.com/watch?v=fuXUi_hoK78)
+  - [MLOps Multi Account Setup with AWS CDK](https://github.com/aws-samples/sagemaker-custom-project-templates/tree/main/mlops-multi-account-cdk)
 - ### SageMaker Pipelines
   - [Automate MLOps with SageMaker Projects](https://www.youtube.com/watch?v=3_cHnk9VSfQ)
   - [Introducing Amazon SageMaker Pipelines](https://www.youtube.com/watch?v=Hvz2GGU3Z8g)
