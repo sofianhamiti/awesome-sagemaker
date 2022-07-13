@@ -4,12 +4,10 @@
 </div>
 <h1 align="center">
 	AWSome SageMaker
+    <a href="https://github.com/sindresorhus/awesome">
+    <img src="https://awesome.re/badge.svg" alt="Awesome">
+    </a>
 </h1>
-<div align="center">
-  <a href="https://github.com/sindresorhus/awesome">
-  <img src="https://awesome.re/badge.svg" alt="Awesome">
-  </a>
-</div>
 
 > A curated list of awesome references for Amazon SageMaker.
 
@@ -90,7 +88,7 @@
   - [Automate MLOps with SageMaker Projects](https://www.youtube.com/watch?v=3_cHnk9VSfQ)
   - [Introducing Amazon SageMaker Pipelines](https://www.youtube.com/watch?v=Hvz2GGU3Z8g)
   - [Building, automating, managing, and scaling ML workflows using Amazon SageMaker Pipelines](https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/)
-- ### Third-Party
+- ### Using Third-Party
   - [Create Amazon SageMaker projects using third-party source control and Jenkins](https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-projects-using-third-party-source-control-and-jenkins/)
   - [Build MLOps workflows with Amazon SageMaker projects, GitLab, and GitLab pipelines](https://aws.amazon.com/blogs/machine-learning/build-mlops-workflows-with-amazon-sagemaker-projects-gitlab-and-gitlab-pipelines/)
   - [MLOps with MLFlow and Amazon SageMaker Pipelines](https://towardsdatascience.com/mlops-with-mlflow-and-amazon-sagemaker-pipelines-33e13d43f238)
@@ -131,7 +129,7 @@
   - [Enabling self-service provisioning of Amazon SageMaker Studio resources](https://towardsdatascience.com/enabling-self-service-provisioning-of-amazon-sagemaker-studio-resources-7ac017925016)
   - [Industrializing an ML platform with Amazon SageMaker Studio](https://towardsdatascience.com/industrializing-an-ml-platform-with-amazon-sagemaker-studio-91b597802afe)
   - [Scaling Enterprise ML Platforms with Modern Cloud Operations](https://towardsdatascience.com/scaling-enterprise-mlops-delivery-with-modern-cloud-operations-6888d7218be5)
-  - [AccessSageMaker Studio via an external identity provider](https://www.youtube.com/watch?v=9CnFrSqvXYM)
+  - [Access SageMaker Studio via an external identity provider](https://www.youtube.com/watch?v=9CnFrSqvXYM)
 - ### Security
   - [Security in Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/security.html)
   - [Dive deep into Amazon SageMaker Studio Notebooks architecture](https://aws.amazon.com/blogs/machine-learning/dive-deep-into-amazon-sagemaker-studio-notebook-architecture/)
