@@ -32,7 +32,6 @@
 - [SageMaker Example Notebooks](https://sagemaker-examples.readthedocs.io/en/latest/)
 - [Amazon SageMaker 101 Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/0c6b8a23-b837-4e0f-b2e2-4a3ffd7d645b/en-US)
 - [SageMaker Immersion Day (hands-on labs)](https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US)
-- [Develop, Train, Optimize and Deploy Scikit-Learn Random Forest](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-python-sdk/scikit_learn_randomforest/Sklearn_on_SageMaker_end2end.ipynb)
 
 <a name="core-functionalities"></a>
 ## Core Functionalities
@@ -40,22 +39,25 @@
   - [Onboard Quickly to Amazon SageMaker Studio](https://www.youtube.com/watch?v=wiDHCWVrjCU)
   - [Hosting VS Code on SageMaker](https://towardsdatascience.com/hosting-vs-code-in-sagemaker-studio-f211385e25f7)
   - [Using RStudio on SageMaker](https://www.rstudio.com/sagemaker/)
-- ### SDKs/Infrastructure-as-Code
+- ### SDKs & Infrastructure-as-Code
   - [SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/)
   - [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sagemaker.html)
   - [CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/AWS_SageMaker.html)
   - [CDK](https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk.aws_sagemaker.html)
   - [Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/sagemaker_domain)
-- ### Containers/Frameworks
+- ### Containers & Frameworks
   - [Supported pre-built containers/frameworks (script mode)](https://sagemaker.readthedocs.io/en/stable/frameworks/index.html)
   - [Using Script Mode with Amazon SageMaker](https://www.youtube.com/watch?v=x94hpOmKtXM)
   - [Using custom training containers](https://github.com/aws/amazon-sagemaker-examples/tree/main/advanced_functionality/custom-training-containers)
   - [Training toolkit](https://github.com/aws/sagemaker-training-toolkit) and [Inference toolkit](https://github.com/aws/sagemaker-inference-toolkit)
 - ### Jobs
   - [SageMaker Processing](https://sagemaker.readthedocs.io/en/stable/amazon_sagemaker_processing.html#amazon-sagemaker-processing)
-  - [Local mode](https://github.com/aws-samples/amazon-sagemaker-local-mode)
-  - [Debugging with Tensorboard](https://google.fr/)
+  - [Training - end-to-end example with Scikit-Learn](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-python-sdk/scikit_learn_randomforest/Sklearn_on_SageMaker_end2end.ipynb)
+  - [Training - end-to-end example with Script Mode](https://www.youtube.com/watch?v=x94hpOmKtXM)
+  - [Using local mode](https://github.com/aws-samples/amazon-sagemaker-local-mode)
 - ### Inference
+  - [Amazon SageMaker Inference explained: Which style is right for you?](https://www.youtube.com/watch?v=bRUNpuRGeZc)
+  - [Introduction to Amazon SageMaker Serverless Inference](https://www.youtube.com/watch?v=xIp2305saII)
   - [Running Triton Inference Server with Amazon SageMaker](https://www.coursera.org/lecture/machine-learning-aws-nvidia/running-triton-inference-server-with-amazon-sagemaker-HwIki)
 
 <a name="machine-learning-domains"></a>
@@ -88,12 +90,14 @@
   - [Automate MLOps with SageMaker Projects](https://www.youtube.com/watch?v=3_cHnk9VSfQ)
   - [Introducing Amazon SageMaker Pipelines](https://www.youtube.com/watch?v=Hvz2GGU3Z8g)
   - [Building, automating, managing, and scaling ML workflows using Amazon SageMaker Pipelines](https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/)
+-  ### Third-Party
   - [Create Amazon SageMaker projects using third-party source control and Jenkins](https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-projects-using-third-party-source-control-and-jenkins/)
   - [Build MLOps workflows with Amazon SageMaker projects, GitLab, and GitLab pipelines](https://aws.amazon.com/blogs/machine-learning/build-mlops-workflows-with-amazon-sagemaker-projects-gitlab-and-gitlab-pipelines/)
   - [MLOps with MLFlow and Amazon SageMaker Pipelines](https://towardsdatascience.com/mlops-with-mlflow-and-amazon-sagemaker-pipelines-33e13d43f238)
   - [Scaling MLOps with resilient pipelines](https://towardsdatascience.com/i-tried-scaling-sagemaker-pipeline-executions-and-this-happened-31279b92821e)
-- ### Model Registry
+- ### Experiment Tracking & Model Registry
   - [Managing your machine learning lifecycle with MLflow and Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/)
+  - [Improve ML developer productivity with Weights & Biases and Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/)
 
 <a name="advanced-topics"></a>
 ## Advanced Topics
@@ -104,11 +108,17 @@
   - [Choose the best data source for your Amazon SageMaker training job](https://aws.amazon.com/blogs/machine-learning/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/)
   - [Scalable Medical Computer Vision Model Training - Part 1](https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-1/) and [Part 2](https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-2)
 - ### Hardware Acceleration
+  - [Choosing the right GPU for deep learning on AWS](https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86)
 - ### Edge Deployments
   - [Industrial defect detection with computer vision using Amazon SageMaker ](https://www.youtube.com/watch?v=v6OHL3LTjkA)
   - [ML@Edge with SageMaker Edge Manager](https://github.com/aws-samples/amazon-sagemaker-edge-manager-workshop)
   - [Using Amazon SageMaker Edge Manager and AWS IoT Greengrass V2](https://aws.amazon.com/blogs/machine-learning/build-machine-learning-at-the-edge-applications-using-amazon-sagemaker-edge-manager-and-aws-iot-greengrass-v2/)
 - ### Feature Store
+  - [Getting started with Amazon SageMaker Feature Store](https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-sagemaker-feature-store/)
+  - [Scale ML feature ingestion using Amazon SageMaker Feature Store](https://aws.amazon.com/blogs/machine-learning/scale-ml-feature-ingestion-using-amazon-sagemaker-feature-store/)
+- ### Debugging
+  - [Use TensorBoard in Amazon SageMaker Studio](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-tensorboard.html)
+  - [Visualize Amazon SageMaker Training Jobs with TensorBoard](https://sagemaker-examples.readthedocs.io/en/latest/sagemaker-python-sdk/tensorboard_keras/tensorboard_keras.html)
 
 <a name="enterprise-architecture"></a>
 ## Enterprise & Architecture
@@ -124,6 +134,10 @@
 - ### Security
   - [Security in Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/security.html)
   - [Dive deep into Amazon SageMaker Studio Notebooks architecture](https://aws.amazon.com/blogs/machine-learning/dive-deep-into-amazon-sagemaker-studio-notebook-architecture/)
+- ### Cost Tracking & Control
+  - [SageMaker Pricing](https://aws.amazon.com/sagemaker/pricing/)
+  - [Decrease Your Machine Learning Costs with Instance Price Reductions and Savings Plans for Amazon SageMaker](https://aws.amazon.com/blogs/aws/slash-your-machine-learning-costs-with-instance-price-reductions-and-savings-plans-for-amazon-sagemaker/)
+  - [Machine Learning Savings Plans](https://aws.amazon.com/savingsplans/ml-pricing/)
 
 <a name="training-certification"></a>
 ## Training & Certification
