@@ -17,7 +17,7 @@
 - [Getting Started](#getting-started) 
 - [Core Functionalities](#core-functionalities)
 - [ML Domains](#machine-learning-domains)
-- [MLOps](#mlops)
+- [ML Operations](#mlops)
 - [Advanced Topics](#advanced-topics)
 - [Enterprise & Architecture](#enterprise-architecture)
 - [Training & Certification](#training-certification)  
@@ -82,7 +82,7 @@
   - [Canvas Immersion Day](https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US)
 
 <a name="mlops"></a>
-## MLOps
+## ML Operations
 - ### MLOps Foundations
   - [MLOps foundation roadmap for enterprises with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/)
   - [Implementing MLOps practices with Amazon SageMaker, featuring Vanguard](https://www.youtube.com/watch?v=fuXUi_hoK78)
@@ -176,4 +176,6 @@
 <a name="contributions" /></a>
 ## Contributions
 Maintainers 
+- [Bruno Pistone](https://github.com/brunopistone)
+- [Othmane Hamzaoui](https://github.com/Othmane796)
 - [Sofian Hamiti](https://github.com/SofianHamiti)
