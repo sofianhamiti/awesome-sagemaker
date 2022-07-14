@@ -8,6 +8,7 @@
 <div align="center">
   <a href="https://github.com/sindresorhus/awesome">
   <img src="https://awesome.re/badge.svg" alt="Awesome">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsofianhamiti%2Fawesome-sagemaker&count_bg=%23198ED5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="hits">
   </a>
 </div>
 
@@ -40,9 +41,8 @@
   - [Hosting VS Code on SageMaker](https://towardsdatascience.com/hosting-vs-code-in-sagemaker-studio-f211385e25f7)
   - [Using RStudio on SageMaker](https://www.rstudio.com/sagemaker/)
 - ### SDKs & Infrastructure-as-Code
-  - [AWS CLI SageMaker](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/index.html)
   - [SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/)
-  - [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sagemaker.html)
+  - [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sagemaker.html) and [AWS CLI](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/index.html)
   - [CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/AWS_SageMaker.html)
   - [CDK](https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk.aws_sagemaker.html)
   - [Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/sagemaker_domain)
