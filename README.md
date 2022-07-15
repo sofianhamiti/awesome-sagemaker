@@ -53,6 +53,7 @@
   - [Using Script Mode with Amazon SageMaker](https://www.youtube.com/watch?v=x94hpOmKtXM)
   - [Using custom training containers](https://github.com/aws/amazon-sagemaker-examples/tree/main/advanced_functionality/custom-training-containers)
   - [Training toolkit](https://github.com/aws/sagemaker-training-toolkit) and [Inference toolkit](https://github.com/aws/sagemaker-inference-toolkit)
+  - [Create reusable customer containers for R](https://towardsdatascience.com/how-to-create-reusable-r-containers-for-sagemaker-jobs-a3d481daf5cd)
 - ### Jobs
   - [SageMaker Processing](https://sagemaker.readthedocs.io/en/stable/amazon_sagemaker_processing.html#amazon-sagemaker-processing)
   - [Training - end-to-end example with Scikit-Learn](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-python-sdk/scikit_learn_randomforest/Sklearn_on_SageMaker_end2end.ipynb)
@@ -108,6 +109,7 @@
 - ### Large Scale Data Processing
   - [Using Apache Spark on Amazon EMR with SageMaker](https://www.youtube.com/watch?v=RxRENYQBxZU)
   - [Spark in Processing Jobs](https://sagemaker.readthedocs.io/en/stable/amazon_sagemaker_processing.html#data-processing-with-spark)
+  - [Using Dask with SageMaker Processing](https://sagemaker-examples.readthedocs.io/en/latest/sagemaker_processing/feature_transformation_with_sagemaker_processing_dask/feature_transformation_with_sagemaker_processing_dask.html)
 - ### Distributed Training
   - [Choose the best data source for your Amazon SageMaker training job](https://aws.amazon.com/blogs/machine-learning/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/)
   - [Scalable Medical Computer Vision Model Training - Part 1](https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-1/) and [Part 2](https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-2)
@@ -124,6 +126,12 @@
   - [Use TensorBoard in Amazon SageMaker Studio](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-tensorboard.html)
   - [Visualize Amazon SageMaker Training Jobs with TensorBoard](https://sagemaker-examples.readthedocs.io/en/latest/sagemaker-python-sdk/tensorboard_keras/tensorboard_keras.html)
   - [Deep Dive on Amazon SageMaker Debugger & Amazon SageMaker Model Monitor](https://www.youtube.com/watch?v=0zqoeZxakOI) 
+- ### Model Monitor
+  - [The 4-types of model monitoring with SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor.html)
+  - [Retrain your model when data drift is detected](https://aws.amazon.com/blogs/machine-learning/automate-model-retraining-with-amazon-sagemaker-pipelines-when-drift-is-detected/)
+- ### R and RStudio
+  - [RStudio on SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/rstudio.html)
+  - [Overview of possible ways of running R workloads on SageMaker](https://towardsdatascience.com/3-1-ways-of-running-r-on-amazon-sagemaker-13034a8f3686)
 
 <a name="enterprise-architecture"></a>
 ## Enterprise & Architecture
@@ -143,6 +151,7 @@
   - [SageMaker Pricing](https://aws.amazon.com/sagemaker/pricing/)
   - [Decrease Your Machine Learning Costs with Instance Price Reductions and Savings Plans for Amazon SageMaker](https://aws.amazon.com/blogs/aws/slash-your-machine-learning-costs-with-instance-price-reductions-and-savings-plans-for-amazon-sagemaker/)
   - [Machine Learning Savings Plans](https://aws.amazon.com/savingsplans/ml-pricing/)
+  - [Automatically shutdown idle resources on SageMaker Studio](https://aws.amazon.com/blogs/machine-learning/save-costs-by-automatically-shutting-down-idle-resources-within-amazon-sagemaker-studio/)
 
 <a name="training-certification"></a>
 ## Training & Certification
@@ -183,3 +192,4 @@ Maintainers
 - [Bruno Pistone](https://github.com/brunopistone)
 - [Othmane Hamzaoui](https://github.com/Othmane796)
 - [Sofian Hamiti](https://github.com/SofianHamiti)
+- [Georgios Schinas](https://github.com/Georschi)
